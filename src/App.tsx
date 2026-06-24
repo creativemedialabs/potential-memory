@@ -20,8 +20,6 @@ import {
   Globe2,
   Handshake,
   Layers3,
-  LineChart,
-  LockKeyhole,
   MapPin,
   Network,
   Radar,
@@ -30,7 +28,6 @@ import {
   Target,
   TrendingUp,
   Users2,
-  Zap,
 } from "lucide-react";
 import {
   animate,
